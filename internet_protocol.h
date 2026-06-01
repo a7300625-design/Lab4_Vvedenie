@@ -10,4 +10,3 @@ struct InternetSession {
     std::string program_path;
 };
 #endif
-
